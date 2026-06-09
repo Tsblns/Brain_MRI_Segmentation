@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Dataset should not be committed
+data/
+datasets/
+kaggle_3m/
+
+# Temporary outputs
+outputs/
+outputs_baseline/
+outputs_improved/
+final_results/
+
+# Optional: uncomment if model weights are too large for normal GitHub upload
+# *.pth
+# *.zip
