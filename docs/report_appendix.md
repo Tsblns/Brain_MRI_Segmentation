@@ -10,7 +10,7 @@
 
 GitHub 仓库地址：
 
-`https://github.com/你的用户名/Brain_MRI_Segmentation`
+`https://github.com/Tsblns/Brain_MRI_Segmentation`
 
 仓库主要内容包括：
 

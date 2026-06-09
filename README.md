@@ -30,7 +30,7 @@ Brain_MRI_Segmentation/
 │   ├── kaggle_run_guide.md    # Kaggle Notebook 运行步骤
 │   └── report_appendix.md     # 报告末尾可附加的仓库说明文字
 ├── results/
-│   └── README.md              # 结果文件放置说明
+│   └── Brain_MRI_Segmentation_Final_Results.zip              # 结果文件
 ├── requirements.txt
 ├── .gitignore
 └── README.md
